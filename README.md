@@ -5,8 +5,7 @@ This is a web-based Tic Tac Toe game built with HTML, CSS, and JavaScript — fe
 
 ## Live Demo
 
-Play Now  
-(Replace with your GitHub Pages link)
+Play Now(https://sairaju1432.github.io/tic-tac-toe/)
 
 ---
 
